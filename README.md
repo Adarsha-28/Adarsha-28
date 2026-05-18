@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adarsha
 
-🎓 2nd Year Computer Science Student
-💻 MERN Stack Developer
+🎓 3rd Year Computer Science Student
+💻 Full Stack Developer
 
 ---
 
