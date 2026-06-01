@@ -2,21 +2,23 @@
 
 # 👋 Hi, I'm Adarsha U
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;DSA+Enthusiast;Competitive+Programmer;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;DSA+Enthusiast;Competitive+Programmer;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Adarsha-28&label=Profile+Views&color=00D9FF&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/Adarsha-28?style=for-the-badge&color=blue" />
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=orange" />
+<img src="https://img.shields.io/github/stars/Adarsha-28?style=for-the-badge&color=orange" />
 
 </div>
 
 ---
 
 # 🚀 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 B.E Computer Science & Engineering Student
 
@@ -35,15 +37,19 @@
 
 🏆 Highlights
 
-🔥 Solved 1600+ Problems on Skillrack
-
-🔥 Solved 320+ Problems on LeetCode
-
 🔥 Built Multiple Full Stack Applications
 
 🔥 PaperNova Winner (Top 3 among 50+ Teams)
 
 🔥 Technical Quiz Champion
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Skillrack-1600%2B%20Solved-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LeetCode-320%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+
+</div>
 
 🌱 Currently Learning
 
@@ -58,7 +64,7 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/adarsha-uthayakumar-456933314">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -66,7 +72,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/Adarsha-28">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -241,9 +247,9 @@ Fiestaa Hackathon @ KPRIET
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsha-28&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsha-28&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -253,7 +259,7 @@ Fiestaa Hackathon @ KPRIET
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsha-28&theme=tokyonight"/>
 
 </div>
 
@@ -263,7 +269,7 @@ Fiestaa Hackathon @ KPRIET
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsha-28&theme=react-dark"/>
 
 </div>
 
@@ -273,7 +279,7 @@ Fiestaa Hackathon @ KPRIET
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Adarsha-28E&theme=algolia&row=2&column=4"/>
 
 </div>
 
@@ -283,7 +289,7 @@ Fiestaa Hackathon @ KPRIET
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Adarsha-28/Adarsha-28/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
